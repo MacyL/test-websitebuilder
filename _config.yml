@@ -14,7 +14,7 @@ header:
       url: /generic/
     - label: Schedule
       url: /elements/
-    - label: Ipsum
+    - label: About
       url: /ipsum/
 footer:
   content: >-
