@@ -10,7 +10,7 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Generic
+    - label: Course
       url: /generic/
     - label: Elements
       url: /elements/
