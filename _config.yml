@@ -12,7 +12,7 @@ header:
       url: /
     - label: Course
       url: /generic/
-    - label: Schedule
+    - label: Elements
       url: /elements/
     - label: About
       url: /ipsum/
